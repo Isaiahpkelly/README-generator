@@ -1,0 +1,18 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "A readme generator ",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaiah Kelly",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "electron": "^8.2.5",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.1.0"
+  }
+}
