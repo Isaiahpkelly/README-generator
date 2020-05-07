@@ -4,8 +4,8 @@
   "description": "A readme generator ",
   "main": "cli.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "index.js"
+},
   "author": "Isaiah Kelly",
   "license": "ISC",
   "dependencies": {
